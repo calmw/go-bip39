@@ -11,14 +11,14 @@ There are two ways to use this fork in your project:
 
 1. Replace the original path in ``go.mod``
 ```
-replace github.com/tyler-smith/go-bip39 => github.com/calm/go-bip39 v1.1.0
+replace github.com/tyler-smith/go-bip39 => github.com/tyler-smith/go-bip39 v1.1.0
 ```
 
 2. Import directly via ``go get``
    You can also import this fork directly using:
 
 ```bash
-go get github.com/calm/go-bip39
+go get github.com/tyler-smith/go-bip39
 ```
 
 # Original README
