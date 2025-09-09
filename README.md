@@ -11,7 +11,7 @@ There are two ways to use this fork in your project:
 
 1. Replace the original path in ``go.mod``
 ```
-replace github.com/tyler-smith/go-bip39 => github.com/tyler-smith/go-bip39 v1.1.0
+replace github.com/tyler-smith/go-bip39 => github.com/calmw/go-bip39 v1.0.1
 ```
 
 2. Import directly via ``go get``
